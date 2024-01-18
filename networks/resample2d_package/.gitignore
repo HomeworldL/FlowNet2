@@ -1,0 +1,3 @@
+build/*
+resample2d_cuda.egg-info*
+dist/*

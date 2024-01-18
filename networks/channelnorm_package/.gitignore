@@ -1,0 +1,3 @@
+build/*
+channelnorm_cuda.egg-info/*
+dist/*
